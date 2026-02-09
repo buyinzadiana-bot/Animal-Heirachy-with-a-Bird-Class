@@ -1,5 +1,5 @@
 public class Bird extends Animal{
-    public void Fly() {
+    public void fly() {
         System.out.println("bird does: flying!");}
 
         @Override
